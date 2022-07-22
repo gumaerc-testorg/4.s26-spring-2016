@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides citations to mapping references and links to related
+  resources on the web.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: ccff8da4-0fcf-5414-344a-f7379965ae2d
 ---
