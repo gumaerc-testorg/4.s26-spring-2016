@@ -2,34 +2,33 @@
 content_type: page
 description: This section provides citations to mapping references and links to related
   resources on the web.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: ccff8da4-0fcf-5414-344a-f7379965ae2d
 ---
-
 ### Workshop: Mapping References
 
-McHarg, Ian L., and American Museum of Natural History. _Design with Nature_. The Natural History Press, 1969.
+McHarg, Ian L., and American Museum of Natural History. *Design with Nature*. The Natural History Press, 1969.
 
-Corner, James, and Alex S. MacLean. _Taking Measures Across the American Landscape_. Yale University Press, 1996. ISBN: 9780300086966.
+Corner, James, and Alex S. MacLean. *Taking Measures Across the American Landscape*. Yale University Press, 1996. ISBN: 9780300086966.
 
-Corner, James. "The Agency of Mapping: Speculation, Critique and Invention." In _Mappings_. Edited by Denis E. Cosgrove. Reaktion Books, 1999. ISBN: 9781861890214.
+Corner, James. "The Agency of Mapping: Speculation, Critique and Invention." In *Mappings*. Edited by Denis E. Cosgrove. Reaktion Books, 1999. ISBN: 9781861890214.
 
-Berger, Alan. _Reclaiming the American West_. Princeton Architectural Press, 2002. ISBN: 9781568983622. \[Preview with [Google Books](https://books.google.com/books?id=R34blKTNISIC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Berger, Alan. *Reclaiming the American West*. Princeton Architectural Press, 2002. ISBN: 9781568983622. \[Preview with [Google Books](https://books.google.com/books?id=R34blKTNISIC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-Busquets, Joan, and Felipe Correa, eds. _New Orleans: Strategies for a City in Soft Land_. Harvard University, 2005. ISBN: 9780935617924.
+Busquets, Joan, and Felipe Correa, eds. *New Orleans: Strategies for a City in Soft Land*. Harvard University, 2005. ISBN: 9780935617924.
 
-Kurgan, Laura. _Close up at a Distance: Mapping, Technology, and Politics_. Zone Books, 2013. ISBN: 9781935408284. \[Preview with [Google Books](https://books.google.com/books?id=VKFL4L0dGioC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Kurgan, Laura. *Close up at a Distance: Mapping, Technology, and Politics*. Zone Books, 2013. ISBN: 9781935408284. \[Preview with [Google Books](https://books.google.com/books?id=VKFL4L0dGioC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-Misrach, Richard, Kate Orff, and Aperture Foundation. _Petrochemical America_. Aperture, 2012. ISBN: 9781597111911.
+Misrach, Richard, Kate Orff, and Aperture Foundation. *Petrochemical America*. Aperture, 2012. ISBN: 9781597111911.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531306) Cache, Bernard. "Territorial Image." In _Earth Moves: The Furnishing of Territories_. Edited by Michael Speaks and Bernard Cache. MIT Press, 1995. ISBN: 9780262531306.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531306) Cache, Bernard. "Territorial Image." In *Earth Moves: The Furnishing of Territories*. Edited by Michael Speaks and Bernard Cache. MIT Press, 1995. ISBN: 9780262531306.
 
-Navarro, Iván, and Pedro P. Anker. [Cancha: Chilean Soilscapes](http://masterefimeras.com/cancha-chilean-soilscapes-ivan-navarro-pedro-oulido). Chilean Pavilion. 13th International Architecture Exhibition. Fondazione La Biennale di Venezia, 2013.
+Navarro, Iván, and Pedro P. Anker. [Cancha: Chilean Soilscapes](https://web.archive.org/web/20210302081635/http://masterefimeras.com/cancha-chilean-soilscapes-ivan-navarro-pedro-oulido). Chilean Pavilion. 13th International Architecture Exhibition. Fondazione La Biennale di Venezia, 2013.
 
-Offices / Organizations
------------------------
+## Offices / Organizations
 
 [ETH Architecture of Territory](http://topalovic.arch.ethz.ch/#news)
 
