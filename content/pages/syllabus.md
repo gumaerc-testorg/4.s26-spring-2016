@@ -194,7 +194,7 @@ Reification—Marx, Lukács, and Beyond
 8
 {{< tdclose >}}
 {{< tdopen >}}
-World Urbanization—Theories (with [Roi Salgueiro Barrio](http://cau.mit.edu/research-staff/roi-salgueiro-barrio), Research Associate at MIT Center for Advanced Urbanism)
+World Urbanization—Theories (with {{% resource_link "5041f4ed-8c79-4026-b87e-850f7ecc2ab3" "Roi Salgueiro Barrio" %}}, Research Associate at MIT Center for Advanced Urbanism)
 {{< tdclose >}}
 {{< tdopen >}}
  
